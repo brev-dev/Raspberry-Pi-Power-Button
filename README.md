@@ -1,5 +1,7 @@
 # Raspberry-Pi-Power-Button
+
 Raspberry Pi Power Button (GPIO Shutdown + Wake)
+
 This project documents how to wire and configure a momentary push-button on a Raspberry Pi to provide:
 - Power on (wake from halt)
 - Clean shutdown
